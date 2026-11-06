@@ -21,7 +21,7 @@ import javafx.util.Duration;
 /**
  * Reproductor de video MP4 con JavaFX: abrir archivo, reproducir, pausar y detener.
  *
- * @author linux
+ * @author Java Universe
  */
 public class Mp4Player extends Application {
 
